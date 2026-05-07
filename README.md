@@ -5,7 +5,7 @@ A high-fidelity UX concept for a mobile health tracking app,
 designed in Figma as part of the Google UX Design Certificate.
 
 ## 🔗 Figma Prototype
-[View Full Prototype](YOUR_FIGMA_LINK_HERE)
+[View Full Prototype](https://www.figma.com/design/JI4UPm8e58wcNTraV2zCtn/vyra?node-id=0-1&t=VvYJTnYbhAVvTYdY-1)
 
 ## 📱 Screens
 | Home | Sleep | Health | Food | Profile |
